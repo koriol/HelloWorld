@@ -1,3 +1,3 @@
 # HelloWorld
-## Theme PRactice
+## Theme Practice
 Intro to GitHub Pages
